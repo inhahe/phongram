@@ -1,0 +1,2 @@
+Phongram.py is copyright Richard A. Nichols III (Inhahe) - http://inhahe.com
+cmudict.0.6d is copyright Carnegie Mellon University
